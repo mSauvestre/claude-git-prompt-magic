@@ -1,14 +1,42 @@
 ## Codex Prompts
 
 **Session**: 019c9afc-f57f-7c11-83a5-fbd6bc5ef93a
-**Captured**: 2026-02-26T18:27:34Z
+**Captured**: 2026-02-26T18:31:30Z
 
 ### Prompts
 
-**1.** What are the notes of that commit ?
+**1.** Can you explore the code of this repo to see how this works? https://github.com/Trailblaze-work/claude-git-prompt-magic
 
-**2.** Do you feel like the notes match what I asked for? :D
+**2.** Do you know what claude code hooks are?
 
-**3.** IDK. You could do that. But will it be a problem in other circumstances? Are you sure we're doing things the right way right now?
+**3.** Do you see an equivalent way to do this with Codex?
 
-**4.** The setup needs to work well my man, do what makes it work well. If it can't work well, tell me it can't. But no bullshit
+**4.** Can a codex session know its session ID? Do you know the current session ID of this session?
+
+**5.** So, is there a reliable way in git hooks (post-commit, plus optional prepare-commit-msg) to know the CODEX_THREAD_ID, and is there a reliable way to pull the prompts from the codex sessions file vs the agent's answers?
+
+**6.** Any way to implement this in a TDD way and make a PR to the repo?
+
+**7.** Any chance you could close the PR and resubmit, with all the prompts in the commit like it normally should be if hte script worked? Not faking it, but really using it as a proof of concept
+
+**8.** Can i see the note in the github interface?
+
+**9.** Is there an extension I can add to github to see them?
+
+**10.** Can you show me the whole note of your commit?
+
+**11.** Why is only the latest prompt in the notes? You'll agree I sent many, many messages in this session
+
+**12.** Yeah capture from session start. Sounds like a mess to recompile all the commits of a PR with many
+
+**13.** Can you show me the notes for that commit?
+
+**14.** Okay. Can we close the PR, and reopen one with one unique commit that has everything we've done so far?
+
+**15.** What are the notes of that commit ?
+
+**16.** Do you feel like the notes match what I asked for? :D
+
+**17.** IDK. You could do that. But will it be a problem in other circumstances? Are you sure we're doing things the right way right now?
+
+**18.** The setup needs to work well my man, do what makes it work well. If it can't work well, tell me it can't. But no bullshit
